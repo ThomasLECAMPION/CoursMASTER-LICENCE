@@ -1,0 +1,34 @@
+Exercice 20:
+1. Nous avons deux matrices carrées de tailles n.
+Nous sommes dans le meilleur des cas si n <= B
+Nous avons une complexité en cache de: MT(n) = 2n²/B
+
+2. Dans le cas contraire, nous avons: MT(n) = 1 + (2n²/B)
+
+
+3.
+
+4.
+LEVEL1_ICACHE_SIZE                 98304
+LEVEL1_ICACHE_ASSOC                3
+LEVEL1_ICACHE_LINESIZE             64
+LEVEL1_DCACHE_SIZE                 32768
+LEVEL1_DCACHE_ASSOC                8
+LEVEL1_DCACHE_LINESIZE             64
+
+fonction matrixTrans_naif dans maFonction.cpp
+462 microsecondes d'exécution en moyenne.
+
+5.
+fonction matrixTrans_bloc dans maFonction.cpp
+534 microsecondes d'exécution en moyenne.
+
+6.
+7.
+
+Exercice 21:
+1. Fonction dans maFonction.cpp
+2. fonction counting_sort_bucket dans maFonction.cpp
+3. naïf = 1938289 microsecondes en moyenne, bucket = 2991813 microsecondes en moyenne.
+
+Aucune des comparaisons de performances n'est cohérente ?

@@ -1,0 +1,5 @@
+PUSHI 0
+nullnullnullPUSHG 0
+PUSHI 40
+ADD
+HALT

@@ -1,0 +1,6 @@
+Warning: TestRig moved to org.antlr.v4.gui.TestRig; calling automatically
+line 3:8 no viable alternative at input 'intfact('
+line 3:9 mismatched input 'int' expecting {'(', ')', '-', ENTIER, IDENTIFIANT}
+line 4:21 no viable alternative at input 'return1'
+line 5:9 no viable alternative at input 'returnx'
+line 6:0 mismatched input '}' expecting {<EOF>, 'read', '(', 'write', 'while', 'if', 'for', ';', 'repeat', '-', NEWLINE, ENTIER, IDENTIFIANT}

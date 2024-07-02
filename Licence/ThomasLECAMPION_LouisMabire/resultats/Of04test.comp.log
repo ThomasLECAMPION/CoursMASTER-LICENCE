@@ -1,0 +1,6 @@
+Warning: TestRig moved to org.antlr.v4.gui.TestRig; calling automatically
+line 1:10 extraneous input '0' expecting {';', NEWLINE}
+line 2:7 no viable alternative at input 'floatg('
+line 2:8 mismatched input 'float' expecting {'(', ')', '-', ENTIER, IDENTIFIANT}
+line 3:9 no viable alternative at input 'returnx'
+line 4:0 mismatched input '}' expecting {<EOF>, 'read', '(', 'write', 'while', 'if', 'for', ';', 'repeat', '-', NEWLINE, ENTIER, IDENTIFIANT}

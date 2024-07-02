@@ -1,0 +1,5 @@
+ssh 21806937@gw.info.unicaen.fr
+	mysql -h mysql.info.unicaen.fr -u 21806937 -p
+		use 'database';
+		show tables;
+

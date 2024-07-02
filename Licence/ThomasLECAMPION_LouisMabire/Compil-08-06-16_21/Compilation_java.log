@@ -1,0 +1,21 @@
+CalculetteParser.java:102: error: cannot find symbol
+	   private TableSymboles tableSymboles = new TableSymboles();
+	           ^
+  symbol:   class TableSymboles
+  location: class CalculetteParser
+CalculetteLexer.java:98: error: cannot find symbol
+	   private TableSymboles tableSymboles = new TableSymboles();
+	           ^
+  symbol:   class TableSymboles
+  location: class CalculetteLexer
+CalculetteParser.java:102: error: cannot find symbol
+	   private TableSymboles tableSymboles = new TableSymboles();
+	                                             ^
+  symbol:   class TableSymboles
+  location: class CalculetteParser
+CalculetteLexer.java:98: error: cannot find symbol
+	   private TableSymboles tableSymboles = new TableSymboles();
+	                                             ^
+  symbol:   class TableSymboles
+  location: class CalculetteLexer
+4 errors

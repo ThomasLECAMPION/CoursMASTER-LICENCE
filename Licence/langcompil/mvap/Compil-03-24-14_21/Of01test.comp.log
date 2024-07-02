@@ -1,0 +1,3 @@
+Warning: TestRig moved to org.antlr.v4.gui.TestRig; calling automatically
+line 3:8 mismatched input '3' expecting {')', '*', '/', '+', '-'}
+line 3:18 extraneous input ')' expecting {';', NEWLINE}
